@@ -1,0 +1,12 @@
+{
+  "name": "minimalist-todo",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A minimalist todo app",
+  "scripts": {
+    "build": "node scripts/build.mjs"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
